@@ -1,9 +1,1 @@
-Section wise top used technologies 
-Basic: HTML, CSS, Javascript
-Frameworks: React, Angular, Vue 
-Flavors(Languages that compile to javascript): Typescript
-Testing: Jest, Enzyme, Puppeteer
-Data Layer(Loading and managing data in your app): Redux, GraphQL(Apollo), MobX
-Back End Frameworks(server side rendering) : Next.js, Gatsby
-Mobile & Desktop(Application for mobile and desktop): React Native, Cordova, Electron
- 
+OSR
