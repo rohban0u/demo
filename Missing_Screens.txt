@@ -1,0 +1,12 @@
+Missing Screens
+1) User Profile
+2) Add Cattles in bulk
+3) Add Group
+4) Add Member
+5) Cow Profile : Family Tree
+6) Cow Profile : Add/Edit Notes
+
+Screen Breakpoints(width)
+Tablets : 768px
+Large Devices : 992px
+Extra Large Devices : 1200px
